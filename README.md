@@ -1,6 +1,6 @@
 # Hi, my little friend
 
-Tudo que esta nesse repositório é código aberto, fique a vontade!
+Everything in this repository is open source, feel free!
 
 ##
 
