@@ -5,7 +5,10 @@ Everything in this repository is open source, feel free!
 ##
 
 <div align="center">
-  <img src="imagem_pro_anderson.jpg" width="600" alt="Image generated from an ugly code for communication between two computers."/>
+  <figure>
+    <img src="imagem_pro_anderson.jpg" width="600" alt="Image generated from an ugly code for communication between two computers."/>
+    <figcaption>Image generated from an ugly code for communication between two computers.</figcaption>
+  </figure>
 </div>
 
 <div align="center">
