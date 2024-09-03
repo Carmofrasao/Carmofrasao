@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carmofrasao&layout=compact&show_icons=true&include_all_commits=true&theme=transparent" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carmofrasao&layout=compact&langs_count=8&theme=transparent"/>
-</div>
-
 # Hi, my little friend
 
 ## Sobre Mim
@@ -35,7 +29,8 @@ A partir dele, desenvolvi 2 artigos:
 
 ## Estatísticas GitHub
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Carmofrasao&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carmofrasao&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carmofrasao&layout=compact&show_icons=true&include_all_commits=true&theme=transparent" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carmofrasao&layout=compact&langs_count=8&theme=transparent"/>
+</div>
