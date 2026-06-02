@@ -18,7 +18,7 @@ A partir dele, desenvolvi 2 artigos:
 - I See Syscalls by the Seashore: An Anomaly-based IDS for Containers Leveraging Sysdig Data (ISCC, IEEE)
 - Utilizando Estratégias de Monitoramento Leve em Ambientes Conteinerizados para Detecção de Anomalias via HIDS (SBSeg, SBC)
 
-## Tecnologias & Ferramentas
+<!--## Tecnologias & Ferramentas
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -28,7 +28,7 @@ A partir dele, desenvolvi 2 artigos:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-<!--## Estatísticas GitHub
+## Estatísticas GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Carmofrasao&layout=compact&show_icons=true&include_all_commits=true&theme=transparent" />
