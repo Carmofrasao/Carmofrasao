@@ -28,10 +28,10 @@ A partir dele, desenvolvi 2 artigos:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Estatísticas GitHub
+<!--## Estatísticas GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Carmofrasao&layout=compact&show_icons=true&include_all_commits=true&theme=transparent" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carmofrasao&layout=compact&langs_count=8&theme=transparent"/>
-</div>
+</div>-->
